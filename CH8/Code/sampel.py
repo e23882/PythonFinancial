@@ -11,7 +11,7 @@ f = open(filename, 'r')
 #讀取檔案，確認是否有檔案
 #print(f.readlines())
 
-#透過padnas讀取csv到變數data
+#透過padnas讀取csv到變數data(DataFrame)
 #data = pd.read_csv(filename,index_col=0, parse_dates=True)
 
 #讀取檔案相關資訊
